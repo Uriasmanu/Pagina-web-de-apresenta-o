@@ -5,8 +5,15 @@
 body{
     background-color: #000000;
     color: #F6F6F6;
+    height: 100vh; /* faz o body ocupar 100% da altura da pagina*/
+    box-sizing: border-box; /* foz com que os elementos se concentrem dento do elemento se adaptando em tamanho*/
 }
 
 .titulo-destaque{
     color: #22D4FD;
+}
+
+.aprentacao{
+    display: flex;
+    align-items: center;
 }
