@@ -1,6 +1,6 @@
 # Fake Portfolio Website
 
-Este é um projeto de uma página web fake portifólio utilizando HTML e CSS.
+Este é um projeto do curso Alura, com o objetivo de treinar as habilidades de flexbox, e consiste em uma página web de um portfólio fictício desenvolvida utilizando HTML e CSS.
 
 ## Ferramentas utilizadas
 
